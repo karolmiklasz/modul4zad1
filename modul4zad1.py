@@ -12,3 +12,6 @@ def palindrom(text):
 
     return True
 
+print(palindrom("kajak"))
+print(palindrom("potop"))  
+print(palindrom("Python")) 
